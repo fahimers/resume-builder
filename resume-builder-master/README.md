@@ -1,18 +1,5 @@
-# Rzume
+# Create a resume
 
-<p align="center">
-<img alt="resume builder" src="./src/assets/images/svg/logo_with_text.svg" width="250px" />
-</p>
-
-<h1 align="center">The ultimate tool for an exceptional resume.</h1>
-<h5 align="center">Create nothing but the best with us.</h5>
-
-<br><br>
-
-[![GitHub stars](https://img.shields.io/github/stars/hhhrrrttt222111/resume-builder?color=ff69b4&style=flatsquare)](https://github.com/hhhrrrttt222111/resume-builder/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/hhhrrrttt222111/resume-builder?color=blueviolet&style=flatsquare)](https://github.com/hhhrrrttt222111/resume-builder/network)
-
-<br>
 
 ## Features &nbsp;&nbsp; :page_with_curl:
 
